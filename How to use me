@@ -1,4 +1,8 @@
 how to use me?
 sudo apt update
 sudo apt upgrade
-git clone 
+cd Desktop
+git clone https://github.com/dura51/calculator.git
+cd calculator
+chmod +x calculator.sh
+./calculator
